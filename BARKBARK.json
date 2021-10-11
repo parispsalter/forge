@@ -1,0 +1,12 @@
+{
+    "success":true,
+    "asset":"BARKBARK",
+    "asset_issuer_address":"DPRWK3GBrE6mQxmh3xCH5pHbbnphUSSuhL",
+    "asset_owner_address":"DPRWK3GBrE6mQxmh3xCH5pHbbnphUSSuhL",
+    "asset_supply":"300",
+    "asset_divisible":false,
+    "asset_locked":true,
+    "image":"https://i.imgur.com/I95MaaT.jpg",
+    "image_large":"https://i.imgur.com/wldn5Ti.gif",
+    "image_title":"BARKBARK"
+}
